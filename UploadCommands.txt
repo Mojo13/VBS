@@ -1,0 +1,6 @@
+C:\Users\Mark\Documents\GitHub\vbs [master +1 ~0 -0 !]> git add MM-windowskey.vbs
+C:\Users\Mark\Documents\GitHub\vbs [master +1 ~0 -0]> git commit -m "Upload"
+[master 3a8beea] Upload
+ 1 file changed, 17 insertions(+)
+ create mode 100644 MM-windowskey.vbs
+C:\Users\Mark\Documents\GitHub\vbs [master]>
